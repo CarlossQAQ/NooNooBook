@@ -61,3 +61,4 @@ backend/.env
 # User PDF data (stored in app documents, not here, but just in case)
 simulnote_pdfs/
 *.pdf
+*.wav
