@@ -1,6 +1,6 @@
 <div align="center">
 
-# noooobook
+# NooNooBook
 
 **An AI-powered study companion for students**
 
